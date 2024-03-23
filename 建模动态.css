@@ -170,12 +170,13 @@
     margin-left: 10px;
     margin-right: 10px;
     width: 530px;
-    height: 350px;
+    height: 360px;
 }
 
 .block_l h3 {
     color: #003f88;
     text-align: center;
+    margin-top: -1px;
 }
 
 .block_r {
@@ -183,12 +184,13 @@
     margin-left: 10px;
     margin-right: 10px;
     width: 530px;
-    height: 350px;
+    height: 360px;
 }
 
 .block_r h3 {
     color: #003f88;
     text-align: center;
+    margin-top: -1px;
 }
 
 .block_r h1 {
