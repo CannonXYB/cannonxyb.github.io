@@ -144,12 +144,13 @@
 }
 
 .notice {
-    margin-left: 144px;
+    margin-left: 90px;
     width: 1250px;
     height: 654.4px;
 }
 
 .title {
+    width: 1300px;
     margin-top: 31px;
     padding-bottom: 10px;
 }
@@ -165,6 +166,12 @@
 }
 
 /*以下是建模动态*/
+.bound {
+    width: 1400px;
+    margin-top: 31px;
+    padding-bottom: 10px;
+}
+
 
 .block {
     margin-left: 10px;
