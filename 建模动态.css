@@ -180,6 +180,12 @@
     height: 450px;
 }
 
+.block2 {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 800px;
+    height: 550px;
+}
 
 .block_l {
     float: left;
